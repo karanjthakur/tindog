@@ -1,5 +1,5 @@
 # tindog
-My WEbsite link: https://karanjthakur.github.io/tindog/#cta
+My WEbsite link: https://karanjthakur.github.io/tindog/
 
 # Repository Name
 
