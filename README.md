@@ -2,6 +2,8 @@
 
 A fun and modern dating app website for dogs! TinDog is a responsive, single-page application that brings dogs together to find love and companionship. Built with HTML, CSS, and Bootstrap.
 
+Web Link: https://karanjthakur.github.io/tindog/
+
 ## 🌟 Features
 
 - **Easy to Use**: Intuitive interface designed so even your dog could use it
